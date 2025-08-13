@@ -8,6 +8,7 @@
 /share/
 /Tools/
 /etc/
+api*
 
 # Python cache
 __pycache__/
