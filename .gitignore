@@ -1,0 +1,26 @@
+# Conda environment folder
+/conda-meta/
+/DLLs/
+/Library/
+/Scripts/
+/libs/
+/include/
+/share/
+/Tools/
+/etc/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folders
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
