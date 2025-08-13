@@ -3,12 +3,11 @@
 /DLLs/
 /Library/
 /Scripts/
-/libs/
+/Lib/
 /include/
 /share/
 /Tools/
 /etc/
-api*
 
 # Python cache
 __pycache__/
@@ -21,6 +20,7 @@ venv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+*.dll
 
 # OS files
 .DS_Store
